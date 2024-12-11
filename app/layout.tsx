@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   generator: 'Next.js',
   applicationName: 'Project in Next.js',
   referrer: 'origin-when-cross-origin',
-  keywords: ['Next.js', 'React', 'JavaScript','Jahongir','Jonidev','Jahongir0126','Desktopdev','Jakarta in Next.js'],
+  keywords: ['Next.js', 'React', 'JavaScript','Jahongir','Jonidev','Jahongir0126','Desktopdev','Jakarta in Next.js','Website'],
   authors: [{ name: 'Jonidev' }, { name: 'Jahongir', url: 'https://nextjs.org' }],
   creator: 'Jonidev',
   publisher: 'Jahongir Jonidev',
